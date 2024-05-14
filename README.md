@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 ##
 
 
-### 🛠️ Technologies and tools:
-![image](https://user-images.githubusercontent.com/93452266/198906577-2643e5ca-b6d5-4abe-ba70-a02c173a0d9c.png)
-
 
 
 ##
