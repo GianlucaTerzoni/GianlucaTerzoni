@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ### I'm Gianluca Terzoni, Full Stack Web Developer :computer:
 
 
-### I like great challenges and I face them with passion, commitment and determination. I am interested in web 🖥️ and mobile 📱 development, both from the Front-end and Back-end side.
-
+### I like great challenges and I face them with passion, commitment and determination.
 ##
 
 
