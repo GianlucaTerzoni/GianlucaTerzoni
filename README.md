@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 
 ![gifReadme](https://user-images.githubusercontent.com/93452266/198906285-4dc6a4fc-b8ed-430a-8f25-dd38158a57bf.gif)
 
-### Hi there👋
-### I'm Gianluca Terzoni :computer:
 
-
-### I like great challenges and I face them with passion, commitment and determination.
-##
 
 
 
