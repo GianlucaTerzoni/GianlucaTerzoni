@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 
 ### :mailbox:CONTACT ME! 
-![image](https://user-images.githubusercontent.com/93452266/198907282-8ca895db-477e-4fc9-aeee-a05f5c7a25bc.png)gianlucaterzoni97@gmail.com
+![image]        (https://user-images.githubusercontent.com/93452266/198907282-8ca895db-477e-4fc9-aeee-a05f5c7a25bc.png)gianlucaterzoni97@gmail.com
 
 ##
